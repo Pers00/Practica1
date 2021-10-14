@@ -2,4 +2,4 @@
 
 ![Esta es la imagen 1](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)
 
-!(https://user-images.githubusercontent.com/80652752/137304879-b9223fe8-3e1d-479c-85f8-a5730ded51fe.PNG)
+![ejemplo](https://user-images.githubusercontent.com/80652752/137304879-b9223fe8-3e1d-479c-85f8-a5730ded51fe.PNG)
